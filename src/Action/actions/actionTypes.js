@@ -1,0 +1,5 @@
+export const LOGOUT_USER = "LOGOUT_USER"
+export const LOGIN_USER = "LOGIN_USER"
+export const SEARCH_QUERY = "SEARCH_QUERY"
+export const ADD_TO_CART = "ADD_TO_CART"
+export const SET_VISIBLE = "SET_VISIBLE"
